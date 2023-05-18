@@ -1,0 +1,74 @@
+/*types colors*/
+
+.normal {
+    background: linear-gradient(1deg, #d5ee0b, rgb(31 9 9 / 69%));
+}
+
+.fire {
+    background: linear-gradient(1deg, rgb(212 7 7), rgb(31 9 9 / 69%));
+}
+
+.water {
+
+    background: linear-gradient(1deg, rgb(14 104 126), rgb(31 9 9 / 69%));
+}
+
+.grass {
+    background: linear-gradient(1deg, rgb(24 137 17), rgb(31 9 9 / 69%));
+}
+
+.electric {
+    background: linear-gradient(1deg, rgb(237 251 51), rgb(31 9 9 / 69%));
+}
+
+.ice {
+    background: linear-gradient(1deg, rgb(158, 240, 245), rgb(31 9 9 / 69%));
+}
+
+.fighting {
+    background: linear-gradient(1deg, rgb(241 181 48), rgb(31 9 9 / 69%));
+}
+
+.poison {
+    background: linear-gradient(1deg, rgb(24 137 17), rgb(31 9 9 / 69%));
+}
+
+.ground {
+    background: linear-gradient(1deg, rgb(77 7 7), rgb(31 9 9 / 69%));
+}
+
+.flying {
+    background: linear-gradient(1deg, rgb(36 168 202), rgb(31 9 9 / 69%));
+}
+
+.psychic {
+    background: linear-gradient(1deg, #c40606, rgb(31 9 9 / 69%));
+}
+
+.bug {
+    background: linear-gradient(1deg, #159d07, rgb(31 9 9 / 69%));
+}
+
+.rock {
+    background: linear-gradient(1deg, rgb(72 72 72), rgb(31 9 9 / 69%));
+}
+
+.ghost {
+    background: linear-gradient(1deg, #fdfeff, rgb(31 9 9 / 69%));
+}
+
+.dark {
+    background: linear-gradient(1deg, #000000, rgb(31 9 9 / 69%));
+}
+
+.dragon {
+    background: linear-gradient(1deg, #ee650b, rgb(31 9 9 / 69%));
+}
+
+.steel {
+    background: linear-gradient(1deg, rgb(166, 165, 165), rgb(31 9 9 / 69%));
+}
+
+.fairy {
+    background: linear-gradient(1deg, #fe0f83, rgb(31 9 9 / 69%));
+}
